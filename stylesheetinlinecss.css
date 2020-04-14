@@ -1,0 +1,11 @@
+*Selector {
+
+property: value
+
+<style>
+h1 {
+  color: orange;
+}
+</style>
+
+}
